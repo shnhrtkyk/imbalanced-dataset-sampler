@@ -19,7 +19,7 @@ repos:
       - id: check-docstring-first
 
   - repo: https://github.com/PyCQA/isort
-    rev: 5.9.1
+    rev: 5.9.3
     hooks:
       - id: isort
         name: imports
